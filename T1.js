@@ -6,3 +6,6 @@ export const b  = ()=>{
     alert("hello b")
     
 }
+export const c=()=>{
+    alert("hello c")
+}
