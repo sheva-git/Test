@@ -3,7 +3,7 @@
 
 }
 export const b  = ()=>{
-    alert("hello b")
+    alert("hello b aaa")
     
 }
 export const d=()=>{
