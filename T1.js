@@ -11,6 +11,5 @@ export const c=()=>{
     alert("hello c")
 }
 export const d=()=>{
-    alert("hello d")
-
+const a=125;
 }
