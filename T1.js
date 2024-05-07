@@ -12,4 +12,5 @@ export const c=()=>{
 }
 export const d=()=>{
 const a=125;
+const b=0;
 }
